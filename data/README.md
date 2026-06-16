@@ -7,4 +7,3 @@
 
 Both files are joined on `Order ID` to build the unified sales model used in Power BI.
 
-**Note:** Sample/anonymized e-commerce dataset used for portfolio and analysis purposes only.
