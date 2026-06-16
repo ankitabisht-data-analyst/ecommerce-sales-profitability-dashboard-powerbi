@@ -31,7 +31,7 @@ Revenue alone hides the real picture in e-commerce, where returns, discounts, an
 3. **Power BI** – Designed a single-page dashboard with KPI cards, quarter slicers, a profit-by-month trend chart, and category/payment-mode breakdowns by donut and bar visuals.
 
 ## 📈 Dashboard Preview
-![E-Commerce Dashboard](./images/powerbi_learning_dashboard.png)
+![E-Commerce Dashboard](./images/powerbi%20learning%20dashboard.png)
 
 ## 🔍 Key Insights (from the actual 1,500-row dataset)
 - **Total Revenue: ₹4.38L (438K)** generated **₹37K in profit** — an overall margin of just **8.4%**, signaling thin margins that leave little room for error in pricing or discounting.
